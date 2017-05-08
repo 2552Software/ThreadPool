@@ -4,7 +4,7 @@
 
 #include "ThreadPool.h"
 
-int main()
+int main2()
 {
     
     ThreadPool pool(4);
